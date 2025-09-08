@@ -47,19 +47,6 @@ npx expo start
 
 4. Scan the QR code with Expo Go app to run on your device
 
-## 📁 Project Structure
-
-kerala-explorer/
-├── src/
-│ ├── components/ # Reusable UI components
-│ ├── screens/ # App screens
-│ ├── types/ # TypeScript type definitions
-│ ├── data/ # Static data and mock APIs
-│ └── services/ # API services
-├── assets/ # Images and static assets
-└── App.tsx # Main app component
-
-
 ## 🌟 Key Features Implemented
 
 ### Weather Module
