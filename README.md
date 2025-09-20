@@ -2,8 +2,6 @@
 
 A comprehensive React Native mobile application showcasing Kerala's weather and tourism destinations, built with Expo and TypeScript.
 
-![Kerala Explorer](https://your-screenshot-url.png)
-
 ## ✨ Features
 
 - 🌦️ **Real-time Weather Data** - Weather information for all 14 Kerala districts
@@ -95,13 +93,6 @@ const WEATHER_API_KEY = process.env.WEATHER_API_KEY || 'demo_key';
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Developer
-
-**Rohith** - Engineering Student  
-- Portfolio: [Your Portfolio URL]
-- LinkedIn: [Your LinkedIn]
-- GitHub: [@yourusername](https://github.com/yourusername)
 
 ## 🙏 Acknowledgments
 
